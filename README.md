@@ -6,11 +6,11 @@ This project is a **Face Recognition Attendance System** built using Python. It 
 
 Face-Recognition-Attendance-System-master/
 ├── data/
-│ └── attendance.csv # Stores attendance logs
+│   └── attendance.csv          # Stores attendance logs  
 ├── known_faces/
-│ └── addPicHere/ # Place images of known faces here
+│   └── addPicHere/             # Place images of known faces here  
 └── src/
-└── main.py # Main script to run the application
+    └── main.py                 # Main script to run the application
 
 ## 🚀 Features
 
